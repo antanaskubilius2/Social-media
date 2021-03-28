@@ -1,0 +1,49 @@
+.center {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+header {
+    background-image:img/IMG_2061.jpg
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.center2 {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  font-size: 35px;
+  color:blue;
+  opacity:0.4 ;
+}
+
+main{
+    text-align: center;
+
+
+
+
+}
+body{
+    background-color:lightskyblue;
+       
+
+}
+
+a {
+    color:blue
+}
+a:hover{
+    color: black;
+}
+
+footer{
+    text-align: center;
+   
+}
